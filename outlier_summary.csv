@@ -1,0 +1,9 @@
+,Z-score Outliers,IQR Outliers
+student_id,0,0
+interaction_duration (min),0,0
+feedback_rating (1-5),0,0
+assignments_completed,0,0
+total_interactions,0,0
+quiz_score (%),0,0
+engagement_score,0,0
+age,0,0
